@@ -1,0 +1,17 @@
+{
+  "name": "responsivesms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "responsive_sms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben.datlen@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "twilio": "^3.15.1"
+  }
+}
